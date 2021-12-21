@@ -15,7 +15,7 @@ export default function Navbar() {
                 <ul className="topList">
                     <li className= "topListItem">HOME</li>
                     <li className= "topListItem">ABOUT</li>
-                    <li className= "topListItem">CONTACT</li>
+                    <li className= "topListItem">CONNECT</li>
                     <li className= "topListItem">WRITE</li>
                     <li className= "topListItem">LOGOUT</li>
                 </ul>
