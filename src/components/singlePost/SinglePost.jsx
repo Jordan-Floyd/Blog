@@ -19,7 +19,7 @@ export default function SinglePost() {
                 </h1>
                 <div className="singlePostInfo">
                     <span className="singlePostAuthor">
-                        Author: <b>Jordan</b>
+                        Author: <b>Jordan Floyd</b>
                     </span>
                     <span className="singlePostDate">1 hour ago</span>
                 </div>
