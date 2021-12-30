@@ -8,7 +8,7 @@
         rgba(255,255,255,0.5),
         rgba(255,255,255,0.5)
     ), 
-    url(https://res.cloudinary.com/dvavaunrm/image/upload/c_scale,w_2237/v1640634905/penbackground_ofpdbx.jpg);
+    url(https://res.cloudinary.com/dvavaunrm/image/upload/v1640898731/note-pad-g2ad8aba9c_1920_kyp4bu.jpg);
     background-size: cover;
 }
 
@@ -42,7 +42,7 @@
     padding: 10px;
 }
 
-.registerButton{
+.loginRegisterButton{
     position: absolute;
     top: 60px;
     right: 20px;
