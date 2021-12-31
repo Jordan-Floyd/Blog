@@ -5,7 +5,7 @@ export default function Post() {
         <div className="post">
             <img
                 className="postImg" 
-                src="https://res.cloudinary.com/dvavaunrm/image/upload/c_scale,w_801/v1636225263/brothers_wq7oaf.jpg" 
+                src="https://res.cloudinary.com/dvavaunrm/image/upload/v1640978176/IMG_0572_gw0jjh.jpg" 
                 alt="" 
             />
             <div className="postInfo">
@@ -14,7 +14,7 @@ export default function Post() {
                     <span className="postCat">Music</span>
                 </div>
                 <span className="postTitle">
-                    Brothers
+                    Family
                 </span>
                 <hr/>
                 <span className="postDate">1 hour ago</span>

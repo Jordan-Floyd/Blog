@@ -8,7 +8,7 @@ export default function Header() {
                 <span className="headerTitleLg">Blog</span>
             </div>
             <img className="headerImg"
-             src="https://res.cloudinary.com/dvavaunrm/image/upload/v1639687369/devilscastle_dypbla.jpg"
+             src="https://res.cloudinary.com/dvavaunrm/image/upload/v1640977911/20201106_164447_p9g5ao.jpg"
              alt=""
              />
         </div>
