@@ -14,7 +14,7 @@ export default function Settings() {
                     <label>Profile Picture</label>
                     <div className="settingsPP">
                         <img 
-                            src="https://res.cloudinary.com/dvavaunrm/image/upload/c_scale,h_483,w_946/v1639687369/devilscastle_dypbla.jpg" 
+                            src="https://res.cloudinary.com/dvavaunrm/image/upload/v1640977911/20201106_164447_p9g5ao.jpg" 
                             alt="" 
                         />
                         <label htmlFor="fileInput">
