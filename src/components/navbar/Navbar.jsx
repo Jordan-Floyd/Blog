@@ -9,10 +9,10 @@ export default function Navbar() {
     return (
         <div className = "top">
             <div className="topLeft">
-                <i className="topIcon fab fa-linkedin"></i>
-                <i className= "topIcon fab fa-facebook"></i>
-                <i className="topIcon fab fa-github"></i>
-                <i className="topIcon fab fa-instagram-square"></i>
+                <a href="https://www.linkedin.com/in/jordan-floyd09/" i className="topIcon fab fa-linkedin"></a>
+                <a href="https://www.facebook.com/jordan.floyd.52" i className="topIcon fab fa-facebook"></a>
+                <a href="https://github.com/Jordan-Floyd" i className="topIcon fab fa-github"></a>
+                <a href="https://www.instagram.com/ilovealtapow/" i className="topIcon fab fa-instagram-square"></a>
             </div>
             <div className="topCenter">
                 <ul className="topList">
