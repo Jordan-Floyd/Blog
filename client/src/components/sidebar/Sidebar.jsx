@@ -25,10 +25,10 @@ export default function Sidebar() {
             <div className="sidebarItem">
                 <span className="sidebarTitle">FOLLOW ME</span>
                 <div className="sidebarSocial">
-                    <i className="sidebarIcon fab fa-linkedin"></i>
-                    <i className= "sidebarIcon fab fa-facebook"></i>
-                    <i className="sidebarIcon fab fa-github"></i>
-                    <i className="sidebarIcon fab fa-instagram-square"></i>
+                    <a href="https://www.linkedin.com/in/jordan-floyd09/" i className="sidebarIcon fab fa-linkedin"></a>
+                    <a href="https://www.facebook.com/jordan.floyd.52" i className="sidebarIcon fab fa-facebook"></a>
+                    <a href="https://github.com/Jordan-Floyd" i className="sidebarIcon fab fa-github"></a>
+                    <a href="https://www.instagram.com/ilovealtapow/" i className="sidebarIcon fab fa-instagram-square"></a>
                 </div>
             </div>
         </div>
